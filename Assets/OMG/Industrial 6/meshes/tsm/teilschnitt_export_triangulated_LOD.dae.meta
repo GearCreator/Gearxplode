@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 713c1b930abd8544784215d5c5154b84
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Black_Noise_01__Image___Texture_
+    100002: Body
+    100004: body_bake_n__Image___Texture_
+    100006: body_baked__Image___Texture_
+    100008: Camera
+    100010: conveyor__Image___Texture_
+    100012: conveyor_dark__Image___Texture_
+    100014: conveyor_n__Image___2___Texture_
+    100016: conveyor_n__Image___Texture_
+    100018: conveyor_s__Image___2___Texture_
+    100020: conveyor_s__Image___Texture_
+    100022: Directional_Light
+    100024: drill
+    100026: drill_body
+    100028: drill_body_rotator
+    100030: front_shovel
+    100032: metal_bright__Image___Texture_
+    100034: metal_bright_N__Image___Texture_
+    100036: metal_dark__Image___Texture_
+    100038: Noise_Black_Ground_01
+    100040: props__2___Image___Texture_
+    100042: Render
+    100044: rope
+    100046: shovel_gear
+    100048: //RootNode
+    100050: Texture_Group
+    100052: uvtemplate001-lg__Image___Texture_
+    100054: wheels
+    400000: Black_Noise_01__Image___Texture_
+    400002: Body
+    400004: body_bake_n__Image___Texture_
+    400006: body_baked__Image___Texture_
+    400008: Camera
+    400010: conveyor__Image___Texture_
+    400012: conveyor_dark__Image___Texture_
+    400014: conveyor_n__Image___2___Texture_
+    400016: conveyor_n__Image___Texture_
+    400018: conveyor_s__Image___2___Texture_
+    400020: conveyor_s__Image___Texture_
+    400022: Directional_Light
+    400024: drill
+    400026: drill_body
+    400028: drill_body_rotator
+    400030: front_shovel
+    400032: metal_bright__Image___Texture_
+    400034: metal_bright_N__Image___Texture_
+    400036: metal_dark__Image___Texture_
+    400038: Noise_Black_Ground_01
+    400040: props__2___Image___Texture_
+    400042: Render
+    400044: rope
+    400046: shovel_gear
+    400048: //RootNode
+    400050: Texture_Group
+    400052: uvtemplate001-lg__Image___Texture_
+    400054: wheels
+    2300000: Body
+    2300002: drill
+    2300004: drill_body
+    2300006: drill_body_rotator
+    2300008: front_shovel
+    2300010: rope
+    2300012: shovel_gear
+    2300014: wheels
+    3300000: Body
+    3300002: drill
+    3300004: drill_body
+    3300006: drill_body_rotator
+    3300008: front_shovel
+    3300010: rope
+    3300012: shovel_gear
+    3300014: wheels
+    4300000: Body
+    4300002: rope
+    4300004: front_shovel
+    4300006: shovel_gear
+    4300008: drill_body_rotator
+    4300010: drill_body
+    4300012: drill
+    4300014: wheels
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

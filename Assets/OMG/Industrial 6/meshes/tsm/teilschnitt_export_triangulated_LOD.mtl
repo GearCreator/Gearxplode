@@ -1,0 +1,25 @@
+# MTL written from D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\shaft tower\tsm\teilschnitt_export_triangulated_LOD.obj
+newmtl band
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\shaft tower\references\conveyor.tga
+newmtl body_bake
+Kd 1 1 1
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\shaft tower\body_baked.tga
+newmtl metal_dark
+Kd 0.8 0.8 0.8
+Ns 0.00390625
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\shaft tower\references\metal_dark.tga
