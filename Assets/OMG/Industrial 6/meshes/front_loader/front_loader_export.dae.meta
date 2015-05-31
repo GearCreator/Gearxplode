@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: d912414c735350c408af33119693f3ab
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Backdrop_Item
+    100002: body
+    100004: Camera
+    100006: Directional_Light
+    100008: front_body
+    100010: //RootNode
+    100012: loading_shovel
+    100014: props__2___Image___Texture_
+    100016: Render
+    100018: sfl_baked__Image___Texture_
+    100020: sfl_baked_n__Image___Texture_
+    100022: sfl_baked_s__Image___Texture_
+    100024: shovel_bone1
+    100026: shovel_bone2
+    100028: uvtemplate001-lg__Image___Texture_
+    100030: wheel_and_profile__Image___Texture_
+    100032: wheel_and_profile_n__Image___Texture_
+    100034: wheel_and_profile_s__Image___Texture_
+    100036: wheels
+    100038: wheels_front
+    100040: window_pane__Image___Texture_
+    400000: Backdrop_Item
+    400002: body
+    400004: Camera
+    400006: Directional_Light
+    400008: front_body
+    400010: //RootNode
+    400012: loading_shovel
+    400014: props__2___Image___Texture_
+    400016: Render
+    400018: sfl_baked__Image___Texture_
+    400020: sfl_baked_n__Image___Texture_
+    400022: sfl_baked_s__Image___Texture_
+    400024: shovel_bone1
+    400026: shovel_bone2
+    400028: uvtemplate001-lg__Image___Texture_
+    400030: wheel_and_profile__Image___Texture_
+    400032: wheel_and_profile_n__Image___Texture_
+    400034: wheel_and_profile_s__Image___Texture_
+    400036: wheels
+    400038: wheels_front
+    400040: window_pane__Image___Texture_
+    2300000: body
+    2300002: front_body
+    2300004: loading_shovel
+    2300006: shovel_bone1
+    2300008: shovel_bone2
+    2300010: wheels
+    2300012: wheels_front
+    3300000: body
+    3300002: front_body
+    3300004: loading_shovel
+    3300006: shovel_bone1
+    3300008: shovel_bone2
+    3300010: wheels
+    3300012: wheels_front
+    4300000: wheels
+    4300002: body
+    4300004: front_body
+    4300006: shovel_bone2
+    4300008: shovel_bone1
+    4300010: loading_shovel
+    4300012: wheels_front
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

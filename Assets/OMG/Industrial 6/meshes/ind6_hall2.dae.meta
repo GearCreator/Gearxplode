@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 2690bc337f2721547b87b9ac455597ba
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bricks03_d__Image___Texture_
+    100002: bricks03_h__Image___Texture_
+    100004: Building
+    100006: cable_d__Image___Texture_
+    100008: Camera
+    100010: clima_d__Image___Texture_
+    100012: clima_h__Image___Texture_
+    100014: clima_s__Image___Texture_
+    100016: con06__Image___Texture_
+    100018: con06_H__Image___Texture_
+    100020: Directional_Light
+    100022: door01_d__Image___Texture_
+    100024: door04_d__Image___Texture_
+    100026: door04_h__Image___Texture_
+    100028: door04_s__Image___Texture_
+    100030: floor03_d__Image___Texture_
+    100032: //RootNode
+    100034: light_D__Image___Texture_
+    100036: metal01_d__Image___Texture_
+    100038: metalplates_d__Image___2___Texture_
+    100040: metalplates_d__Image___Texture_
+    100042: metalplates_h__Image___Texture_
+    100044: metalplates_s__Image___Texture_
+    100046: Render
+    100048: rust02_d__Image___Texture_
+    100050: rust02_h__Image___Texture_
+    100052: rust03_d__Image___Texture_
+    100054: Texture_Group
+    400000: bricks03_d__Image___Texture_
+    400002: bricks03_h__Image___Texture_
+    400004: Building
+    400006: cable_d__Image___Texture_
+    400008: Camera
+    400010: clima_d__Image___Texture_
+    400012: clima_h__Image___Texture_
+    400014: clima_s__Image___Texture_
+    400016: con06__Image___Texture_
+    400018: con06_H__Image___Texture_
+    400020: Directional_Light
+    400022: door01_d__Image___Texture_
+    400024: door04_d__Image___Texture_
+    400026: door04_h__Image___Texture_
+    400028: door04_s__Image___Texture_
+    400030: floor03_d__Image___Texture_
+    400032: //RootNode
+    400034: light_D__Image___Texture_
+    400036: metal01_d__Image___Texture_
+    400038: metalplates_d__Image___2___Texture_
+    400040: metalplates_d__Image___Texture_
+    400042: metalplates_h__Image___Texture_
+    400044: metalplates_s__Image___Texture_
+    400046: Render
+    400048: rust02_d__Image___Texture_
+    400050: rust02_h__Image___Texture_
+    400052: rust03_d__Image___Texture_
+    400054: Texture_Group
+    2300000: Building
+    3300000: Building
+    4300000: Building
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

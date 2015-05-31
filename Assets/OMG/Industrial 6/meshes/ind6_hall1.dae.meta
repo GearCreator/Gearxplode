@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 7808ba3dae8503241b92ea1f42d7b6e4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cable_d__Image___Texture_
+    100002: Camera
+    100004: clima_d__Image___Texture_
+    100006: clima_h__Image___Texture_
+    100008: clima_s__Image___Texture_
+    100010: con06__Image___Texture_
+    100012: con06_H__Image___Texture_
+    100014: Directional_Light
+    100016: door01_d__Image___Texture_
+    100018: door04_d__Image___Texture_
+    100020: door04_h__Image___Texture_
+    100022: door04_s__Image___Texture_
+    100024: floor03_d__Image___Texture_
+    100026: //RootNode
+    100028: light_D__Image___Texture_
+    100030: Mesh
+    100032: metal01_d__Image___Texture_
+    100034: metalplates_d__Image___Texture_
+    100036: metalplates_h__Image___Texture_
+    100038: metalplates_s__Image___Texture_
+    100040: Render
+    100042: rust02_d__Image___Texture_
+    100044: rust02_h__Image___Texture_
+    100046: rust03_d__Image___Texture_
+    100048: Texture_Group
+    400000: cable_d__Image___Texture_
+    400002: Camera
+    400004: clima_d__Image___Texture_
+    400006: clima_h__Image___Texture_
+    400008: clima_s__Image___Texture_
+    400010: con06__Image___Texture_
+    400012: con06_H__Image___Texture_
+    400014: Directional_Light
+    400016: door01_d__Image___Texture_
+    400018: door04_d__Image___Texture_
+    400020: door04_h__Image___Texture_
+    400022: door04_s__Image___Texture_
+    400024: floor03_d__Image___Texture_
+    400026: //RootNode
+    400028: light_D__Image___Texture_
+    400030: Mesh
+    400032: metal01_d__Image___Texture_
+    400034: metalplates_d__Image___Texture_
+    400036: metalplates_h__Image___Texture_
+    400038: metalplates_s__Image___Texture_
+    400040: Render
+    400042: rust02_d__Image___Texture_
+    400044: rust02_h__Image___Texture_
+    400046: rust03_d__Image___Texture_
+    400048: Texture_Group
+    2300000: Mesh
+    3300000: Mesh
+    4300000: Mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

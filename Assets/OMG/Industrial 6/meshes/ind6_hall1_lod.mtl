@@ -1,0 +1,27 @@
+# MTL written from D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\ind6_hall1_lod.obj
+newmtl con06
+Kd 1 1 1
+Ns 256
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\con06.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\con06_H.tga
+newmtl door01_d
+Kd 1 1 1
+Ns 256
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\door01_d.tga
+newmtl metalplates
+Kd 0.85 0.85 0.85
+Ns 22.6274
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\metalplates_d.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\metalplates_h.tga

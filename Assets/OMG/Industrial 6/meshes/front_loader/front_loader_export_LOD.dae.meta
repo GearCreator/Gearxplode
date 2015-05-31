@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 4e7d8e6417e263a4b98d9ded01abc9b6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Abstract_Studio_01
+    100002: Abstract_Studio_01__2_
+    100004: Backdrop_Item
+    100006: body
+    100008: Camera
+    100010: Directional_Light
+    100012: front_body
+    100014: //RootNode
+    100016: Grid_Room_White_01__2_
+    100018: Image__abstract_studio__Texture_
+    100020: loading_shovel
+    100022: props__2___Image___Texture_
+    100024: Render
+    100026: sfl_baked__Image___Texture_
+    100028: sfl_baked_n__Image___Texture_
+    100030: sfl_baked_s__Image___Texture_
+    100032: shovel_bone1
+    100034: shovel_bone2
+    100036: Texture_Group
+    100038: Texture_Group__2_
+    100040: Texture_Group__3_
+    100042: Texture_Group__4_
+    100044: uvtemplate001-lg__Image___Texture_
+    100046: wheel_and_profile__Image___Texture_
+    100048: wheel_and_profile_n__Image___Texture_
+    100050: wheel_and_profile_s__Image___Texture_
+    100052: wheels_low
+    100054: window_pane__Image___Texture_
+    400000: Abstract_Studio_01
+    400002: Abstract_Studio_01__2_
+    400004: Backdrop_Item
+    400006: body
+    400008: Camera
+    400010: Directional_Light
+    400012: front_body
+    400014: //RootNode
+    400016: Grid_Room_White_01__2_
+    400018: Image__abstract_studio__Texture_
+    400020: loading_shovel
+    400022: props__2___Image___Texture_
+    400024: Render
+    400026: sfl_baked__Image___Texture_
+    400028: sfl_baked_n__Image___Texture_
+    400030: sfl_baked_s__Image___Texture_
+    400032: shovel_bone1
+    400034: shovel_bone2
+    400036: Texture_Group
+    400038: Texture_Group__2_
+    400040: Texture_Group__3_
+    400042: Texture_Group__4_
+    400044: uvtemplate001-lg__Image___Texture_
+    400046: wheel_and_profile__Image___Texture_
+    400048: wheel_and_profile_n__Image___Texture_
+    400050: wheel_and_profile_s__Image___Texture_
+    400052: wheels_low
+    400054: window_pane__Image___Texture_
+    2300000: body
+    2300002: front_body
+    2300004: loading_shovel
+    2300006: shovel_bone1
+    2300008: shovel_bone2
+    2300010: wheels_low
+    3300000: body
+    3300002: front_body
+    3300004: loading_shovel
+    3300006: shovel_bone1
+    3300008: shovel_bone2
+    3300010: wheels_low
+    4300000: body
+    4300002: wheels_low
+    4300004: front_body
+    4300006: shovel_bone2
+    4300008: shovel_bone1
+    4300010: loading_shovel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

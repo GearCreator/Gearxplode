@@ -1,0 +1,94 @@
+# MTL written from D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\ind6_hall1.obj
+newmtl cable_d
+Kd 0.4998 0.4998 0.4998
+Ns 11.3137
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\cable_d.tga
+newmtl clima_d
+Kd 0.666667 0.666667 0.666667
+Ns 16
+d 1
+illum 1
+Ka 0 0 0
+Ks 0 0 0
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\clima_d.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\clima_h.tga
+newmtl con06
+Kd 1 1 1
+Ns 256
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\con06.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\con06_H.tga
+newmtl door01_d
+Kd 1 1 1
+Ns 256
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\door01_d.tga
+newmtl door04_d
+Kd 0.666667 0.666667 0.666667
+Ns 22.6274
+d 1
+illum 1
+Ka 0 0 0
+Ks 0 0 0
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\door04_d.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\door04_h.tga
+newmtl floor03_d
+Kd 0.59 0.59 0.59
+Ns 22.6274
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\floor03_d.tga
+newmtl light_D
+Kd 0.4998 0.4998 0.4998
+Ns 256
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\light_D.tga
+newmtl metal01_d
+Kd 0.586667 0.586667 0.586667
+Ns 22.6274
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\metal01_d.tga
+newmtl metalplates
+Kd 0.85 0.85 0.85
+Ns 22.6274
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\metalplates_d.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\metalplates_h.tga
+newmtl rust02_d
+Kd 0.666667 0.666667 0.666667
+Ns 11.3137
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\rust02_d.tga
+map_Bump D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\rust02_h.tga
+newmtl rust03_d
+Kd 0.496667 0.496667 0.496667
+Ns 16
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.15 0.15 0.15
+map_Kd D:\3d\3d-daten\3D\3D-Objekte\industrial_packs\ind6\rust03_d.tga
